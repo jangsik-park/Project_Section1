@@ -1,3 +1,3 @@
 # Project_Section1
 
-## AI Bootcamp 프로젝트 모음 공간입니다.
+## 게임 판매 데이터를 활용한 다음분기 사업전략 기획
